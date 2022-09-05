@@ -1,5 +1,3 @@
-# Hi there 👋
-
 I'm in the process of moving repos that I control away from GitHub.
 
 What GitHub is doing with their CoPilot product is quite simply wrong:
