@@ -1,6 +1,6 @@
 I'm in the process of moving repos that I control away from GitHub.
 
-What GitHub is doing with their CoPilot product is quite simply wrong:
+What GitHub is doing with their CoPilot product is just wrong:
 
 1. they are selling people's own code back to them
 2. they completely disregard licenses
