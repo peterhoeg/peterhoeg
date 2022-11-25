@@ -4,7 +4,7 @@ What GitHub is doing with their CoPilot product is just wrong:
 
 1. they are selling people's own code back to them
 2. they completely disregard licenses
-3. GH doesn't respect developers by completely disregarding their wishes to *not* have their own code be part of CoPilot
+3. GH doesn't respect developers by ignoring their wishes to *not* have their own code be part of CoPilot
 
 ![GitHub flips off developers](./github.jpg "How GitHub feels about developers")
 
